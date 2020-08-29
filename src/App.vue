@@ -20,7 +20,7 @@
         },
      data(){
           return{
-           list:['1', '34', '535' ]
+           list:[ ]
           }
         },
           methods: {
